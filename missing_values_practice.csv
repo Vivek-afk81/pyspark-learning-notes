@@ -1,0 +1,7 @@
+employee_id,name,age,department,experience_years,rating
+201,Amit,25.0,IT,2.0,4.5
+202,Neha,,HR,3.0,
+203,Ravi,30.0,,,3.8
+204,Priya,28.0,Finance,5.0,
+205,,35.0,IT,7.0,4.2
+206,Suman,,HR,,3.9
