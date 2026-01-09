@@ -1,0 +1,26 @@
+name,age,experience,salary,education,department,is_manager,performance_score,hired_date,location
+Aarav Sharma,28,3,45000,Bachelors,Data Science,0,4.2,2021-06-15,Delhi
+Diya Patel,32,7,68000,Masters,Data Science,0,4.6,2018-03-01,Mumbai
+Karan Verma,40,15,120000,Masters,Engineering,1,4.8,2010-11-20,Bangalore
+Meera Iyer,26,2,42000,Bachelors,Product,0,3.9,2022-01-10,Chennai
+Rohit Singh,35,10,90000,Bachelors,Engineering,1,4.1,2014-05-05,Pune
+Sneha Rao,29,5,60000,Masters,Data Science,0,4.3,2019-09-23,Hyderabad
+Vikram Joshi,45,20,150000,PhD,Research,1,4.9,2005-07-12,Delhi
+Pooja Mehra,31,6,70000,Masters,Product,0,4.0,2017-10-30,Bangalore
+Aditya Kapoor,24,1,35000,Bachelors,Support,0,3.6,2023-02-14,Kolkata
+Nisha Gupta,38,12,98000,Masters,Engineering,1,4.4,2012-08-01,Mumbai
+Suman Reddy,27,4,52000,Bachelors,Support,0,3.8,2020-04-21,Hyderabad
+Anil Kumar,50,27,170000,PhD,Research,1,4.7,1999-12-01,Chennai
+Rita Nair,34,9,82000,Masters,Marketing,1,4.1,2015-06-25,Bangalore
+Sunil Desai,30,6,61000,Bachelors,Sales,0,3.9,2018-02-10,Pune
+Kriti Sharma,23,0,32000,Bachelors,Intern,0,3.2,2024-07-01,Delhi
+Mohit Agarwal,37,11,95000,Masters,Engineering,1,4.5,2013-05-16,Mumbai
+Latha Menon,42,18,135000,PhD,Research,1,4.6,2006-03-08,Chennai
+Harsh Jain,29,5,58000,Bachelors,Sales,0,3.7,2019-11-11,Kolkata
+Neelam Kaur,33,8,76000,Masters,HR,1,4.0,2016-09-05,Delhi
+Dev Malhotra,28,4,54000,Bachelors,Data Science,0,4.1,2020-12-12,Bangalore
+Priyanka Bose,36,13,102000,Masters,Product,1,4.3,2011-07-19,Mumbai
+Rakesh Pillai,41,16,125000,Masters,Engineering,1,4.5,2008-10-02,Pune
+Gauri Mishra,26,3,47000,Bachelors,Marketing,0,3.8,2021-03-29,Hyderabad
+Omar Sheikh,39,14,110000,Masters,Engineering,1,4.4,2009-01-17,Bangalore
+Naveen Yadav,22,0,30000,Bachelors,Intern,0,3.0,2024-06-03,Delhi
